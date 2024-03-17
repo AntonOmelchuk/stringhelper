@@ -1,0 +1,27 @@
+{
+  "name": "string-utils",
+  "version": "1.0.0",
+  "description": "A simple JavaScript library providing utility functions for working with strings.",
+  "main": "stringutils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "string",
+    "utility"
+  ],
+  "author": "Anthony Omelchuk",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/string-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/string-utils/issues"
+  },
+  "homepage": "https://github.com/yourusername/string-utils",
+  "dependencies": {},
+  "devDependencies": {}
+}
