@@ -1,6 +1,6 @@
 {
   "name": "string-utils-onixteam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple JavaScript library providing utility functions for working with strings.",
   "main": "stringutils.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/AntonOmelchuk/stringhelper.git",
   "dependencies": {
-    "simple-math-helper-onixteam": "^1.0.1"
+    "simple-math-helper-onixteam": "^1.0.4"
   }
 }
